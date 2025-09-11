@@ -104,6 +104,8 @@ Using the trained LSTM<sub>Clim+Dnr</sub> model, we also make predictions at the
 | `/figures/makeFigure8.py`| Make hydrographs for selected gauges|
 | `/figures/makeFigure9.py`| Plot monthly runoff comparison|
 
+### 6. Final Data Products
 
+The final data products can be found at this [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10442485) repository. 
 
 
