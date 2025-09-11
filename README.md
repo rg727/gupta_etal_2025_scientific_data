@@ -52,9 +52,9 @@ The training data for the LSTM models is a combination of US and Canada streamfl
 The gauges that are active for each modeling subperiod are in listed in `data/gauges/`. The following scripts show the workflow for developing the training data. 
 | Script Name                 | Description                                                                                          
 |----------------------------|------------------------------------------------------------------------------------------------------|
-| `/code/pre-processing/identifyNewGauges.py`   | Example script of how to download USGS/WSC runoff data                                               | 
-| `/code/pre-processing/makegeophysicaldatasets`| Example script of how to create the physical characteristic datasets                                 | 
-| `/code/pre-processing/createTrainingSets`       | Example script of how to create the finalized training dataset with neighbors                      |
+| `/code/pre_processing/identifyNewGauges.py`   | Example script of how to download USGS/WSC runoff data                                               | 
+| `/code/pre_processing/makegeophysicaldatasets`| Example script of how to create the physical characteristic datasets                                 | 
+| `/code/pre_processing/createTrainingSets`       | Example script of how to create the finalized training dataset with neighbors                      |
 
 An example of what a final training dataset looks like is shown in `data/training_set/`. If a users is in need of the comprehensive training sets, please reach out to Rohini (rg727@cornell.edu)
 
