@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/265254045.svg)](https://zenodo.org/doi/10.5281/zenodo.10442485)
+[![DOI](https://zenodo.org/badge/265254045.svg)](https://doi.org/10.5281/zenodo.16897690)
 # Gupta-etal_2025_nature_scientific_data
 
 Rohini S. Gupta <sup>1*</sup>, Sungwook Wi <sup>1*</sup>, Scott Steinschneider<sup>1</sup>  
@@ -106,6 +106,6 @@ Using the trained LSTM<sub>Clim+Dnr</sub> model, we also make predictions at the
 
 ### 6. Final Data Products
 
-The final data products can be found at this [Zenodo](https://zenodo.org/doi/10.5281/zenodo.10442485) repository. 
+The final data products can be found at this [Zenodo](https://doi.org/10.5281/zenodo.16897690) repository. 
 
 
