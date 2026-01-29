@@ -30,7 +30,7 @@ All code to reproduce the dataset and figures is found in this repository or is 
 ### Output Data
 
 Gupta, R.S., Wi, S., Steinschneider, S. (2025). *Laurentian Great Lakes Daily and Monthly Runoff (1951-2013) (Version v1)* [Data set]. Zenodo.  
-🔗 [https://doi.org/10.5281/zenodo.16897690](https://doi.org/10.5281/zenodo.16897689)
+🔗 [https://doi.org/10.5281/zenodo.16897689](https://doi.org/10.5281/zenodo.16897689)
 
 ---
 
