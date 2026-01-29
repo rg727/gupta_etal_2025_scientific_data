@@ -106,6 +106,6 @@ Using the trained LSTM<sub>Clim+Dnr</sub> model, we also make predictions at the
 
 ### 6. Final Data Products
 
-The final data products can be found at this [Zenodo](https://doi.org/10.5281/zenodo.16897690) repository. 
+The final data products can be found at this [Zenodo](https://doi.org/10.5281/zenodo.16897689) repository. 
 
 
